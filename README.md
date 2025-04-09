@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src=".png" width="700" alt="Password Manager GUI Screenshot"/>
+  <img src="https://github.com/manoj-sys-core/password-manager-GUI/blob/main/assets/new1.png" width="700" alt="Password Manager GUI Screenshot"/>
 </p>
 
 ---
